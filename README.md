@@ -3,4 +3,4 @@ A hybrid image encryption framework fusing machine learning and chaotic cryptogr
 # What I learned
 I learned to integrate machine learning with chaotic cryptography to create adaptive encryption frameworks. I mastered classifying data blocks by information density to optimize speed without compromising security, while exploring complex techniques like bit-plane decomposition and multiple S-boxes for real-time IoT applications.
 # Preview
-![Dashboard Output]
+![Dashboard Output](https://github.com/Arkadip-Kansabanik/Data-encryption-through-the-encoding-of-high-and-moderate-plaintext-information-blocks/blob/main/Energy%20based%20Classification.png)
