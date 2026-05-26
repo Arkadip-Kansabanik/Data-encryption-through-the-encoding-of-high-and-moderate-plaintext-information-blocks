@@ -275,7 +275,7 @@ Image-Encryption-ML-Cryptography/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Image-Encryption-ML-Cryptography.git
+git clone https://github.com/Arkadip-Kansabanik/Data-encryption-through-the-encoding-of-high-and-moderate-plaintext-information-blocks.git
 ```
 
 ---
@@ -283,7 +283,7 @@ git clone https://github.com/your-username/Image-Encryption-ML-Cryptography.git
 ## 2️⃣ Navigate to Project Directory
 
 ```bash
-cd Image-Encryption-ML-Cryptography
+cd Data-encryption-through-the-encoding-of-high-and-moderate-plaintext-information-blocks
 ```
 
 ---
